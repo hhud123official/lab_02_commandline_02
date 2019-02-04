@@ -154,7 +154,7 @@ Write down the command that you used to download the file below.  Additionally, 
 
 Write down the command that you used to uncompress the file.
 ----------
-
+unzip mtec1002-lab-02.zip
 
 
 ==========
